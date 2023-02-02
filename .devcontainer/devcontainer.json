@@ -45,7 +45,7 @@
 	"customizations": {
 		"codespaces": {
 			"repositories": {
-				"SonySemiconductorSolutions/aitrios-sdk-console-access-lib-python": {
+				"REC-takeshi-arai/aitrios-sdk-console-access-lib-python.git": {
 					"permissions": {
 						"contents": "read"
 					}
