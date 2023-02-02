@@ -36,7 +36,7 @@
 	],
 
 	// Use 'initializeCommand' to run commands before the container is created.
-	"initializeCommand": [".devcontainer/initializedCommand"],
+	//"initializeCommand": [".devcontainer/initializedCommand"],
 
 	// Comment out to connect as root instead. More info: https://aka.ms/vscode-remote/containers/non-root.
 	"remoteUser": "vscode",
