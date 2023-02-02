@@ -43,14 +43,6 @@
 
 	// for git submodules: https://docs.github.com/ja/codespaces/managing-your-codespaces/managing-repository-access-for-your-codespaces
 	"customizations": {
-		"codespaces": {
-			"repositories": {
-				"REC-takeshi-arai/aitrios-sdk-console-access-lib-python.git": {
-					"permissions": {
-						//"contents": "read"
-					}
-				}
-			}
-		}
+
 	}
 }
