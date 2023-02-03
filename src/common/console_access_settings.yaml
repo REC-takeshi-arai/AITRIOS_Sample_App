@@ -1,5 +1,5 @@
 console_access_settings:
-  base_url: ""
-  token_url: ""
-  client_secret: ""
-  client_id: ""
+  base_url: "https://console.aitrios.sony-semicon.com/api/v1"
+  token_url: "https://auth.aitrios.sony-semicon.com/oauth2/default/v1/token"
+  client_secret: "JFs7GZH7-lckTdJ_x9kJUGzOyCWwC5HRs2Ksd63N"
+  client_id: "0oa41877amr3eFsY9697"
